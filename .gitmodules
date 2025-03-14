@@ -65,3 +65,21 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed
+[submodule "Tweaks/IAmYouTube"]
+    path = Tweaks/IAmYouTube
+    url = https://github.com/PoomSmart/IAmYouTube.git
+[submodule "Tweaks/YouSlider"]
+	path = Tweaks/YouSlider
+	url = https://github.com/PoomSmart/YouSlider
+[submodule "Tweaks/NoYTPremium"]
+    path = Tweaks/NoYTPremium
+    url = https://github.com/PoomSmart/NoYTPremium.git
+[submodule "Tweaks/YouTube-X"]
+    path = Tweaks/YouTube-X
+    url = https://github.com/PoomSmart/YouTube-X/
+[submodule "Tweaks/YTIcons"]
+    path = Tweaks/YTIcons
+    url = https://github.com/PoomSmart/YTIcons
+[submodule "Tweaks/YTClassicVideoQuality"]
+    path = Tweaks/YTClassicVideoQuality
+    url = https://github.com/PoomSmart/YTClassicVideoQuality.git
