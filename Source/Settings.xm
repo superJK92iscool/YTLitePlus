@@ -99,7 +99,7 @@ static const NSInteger YTLiteSection = 789;
         accessibilityIdentifier:nil
         detailTextBlock:nil
         selectBlock:^BOOL (YTSettingsCell *cell, NSUInteger arg1) {
-            return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://github.com/YTLitePlus/YTLitePlus/releases/latest"]];
+            return [%c(YTUIUtils) openURL:[NSURL URLWithString:@"https://github.com/superJK92IsCool/YTLitePlus/releases/latest"]];
         }];
     [sectionItems addObject:main];
 
