@@ -17,9 +17,9 @@ endif
 PACKAGE_NAME = YTLitePlus
 PACKAGE_VERSION = X.X.X-X.X
 
-INSTALL_TARGET_PROCESSES = YouTube
+INSTALL_TARGET_PROCESSES = YTLitePlus
 TWEAK_NAME = YTLitePlus
-DISPLAY_NAME = YouTube
+DISPLAY_NAME = YTLitePlus
 BUNDLE_ID = com.google.ios.youtube
 
 YTLitePlus_FILES = YTLitePlus.xm $(shell find Source -name '*.xm' -o -name '*.x' -o -name '*.m')
