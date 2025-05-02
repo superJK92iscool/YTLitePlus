@@ -76,7 +76,7 @@
 	url = https://github.com/PoomSmart/NoYTPremium.git
 [submodule "Tweaks/YouTube-X"]
 	path = Tweaks/YouTube-X
-	url = https://github.com/PoomSmart/YouTube-X/
+	url = https://github.com/PoomSmart/YouTube-X.git
 [submodule "Tweaks/YTClassicVideoQuality"]
     path = Tweaks/YTClassicVideoQuality
     url = https://github.com/PoomSmart/YTClassicVideoQuality.git
